@@ -1,0 +1,26 @@
+﻿Построение начато 27.09.2018 12:29:00.
+     1>Проект "c:\Users\Lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Laba1_reshenie2\Laba1_reshenie2.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "c:\users\lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\Laba1_reshenie2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         D:\namespaces\programms\visual studio 10\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Laba1_reshenie2.cpp
+         Laba1_reshenie2.cpp
+     1>c:\users\lotegr\documents\visual studio 2010\projects\laba1_reshenie2\laba1_reshenie2\laba1_reshenie2.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\namespaces\programms\visual studio 10\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\lotegr\documents\visual studio 2010\projects\laba1_reshenie2\laba1_reshenie2\laba1_reshenie2.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\namespaces\programms\visual studio 10\vc\include\stdio.h(304): см. объявление "scanf"
+       Link:
+         D:\namespaces\programms\visual studio 10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Debug\Laba1_reshenie2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Laba1_reshenie2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Debug\Laba1_reshenie2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Debug\Laba1_reshenie2.lib" /MACHINE:X86 Debug\Laba1_reshenie2.obj
+         Laba1_reshenie2.vcxproj -> c:\users\lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Debug\Laba1_reshenie2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Debug\Laba1_reshenie2.exe;#1" /manifest Debug\Laba1_reshenie2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Laba1_reshenie2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Laba1_reshenie2.lastbuildstate".
+     1>Построение проекта "c:\Users\Lotegr\documents\visual studio 2010\Projects\Laba1_reshenie2\Laba1_reshenie2\Laba1_reshenie2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.62
